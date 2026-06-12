@@ -1,12 +1,15 @@
 # Patrivj06
 
-Soy estudiante de economía interesada en el análisis de datos, la macroeconomía y la política.
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="80px" align="right" alt="Mi Pokémon favorito Porygon" />
 
-Mis proyectos en este perfil 
+Soy estudiante de economía interesada en el análisis de datos, la macroeconomía y la política.
 
 ## Herramientas que uso 
 
-* Python, R studio, SQL, excel avanzado, Jupyter notebook.
+* VSCode, R studio y SPSS
+* Estoy aprendiendo estos lenguajes: SQL y Python
+
+* Practico de vez en cuando Fron-End para mis proyectos 
 
 * **Como contactar conmigo**:
 
