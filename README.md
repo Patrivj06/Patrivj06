@@ -1,6 +1,5 @@
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="80px" align="right" />
 # Patrivj06
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="80px" align="right" alt="Mi Pokémon favorito Porygon" />
 
 Soy estudiante de economía interesada en el análisis de datos, la macroeconomía y la política.
 
