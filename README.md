@@ -1,4 +1,17 @@
-## Hi there 👋
+# Patrivj06
+
+Soy estudiante de economía interesada en el análisis de datos, la macroeconomía y la política.
+
+Mis proyectos en este perfil 
+
+## Herramientas que uso 
+
+* Python, R studio, SQL, excel avanzado, Jupyter notebook.
+
+* **Como contactar conmigo**:
+
+* Linkedin: (www.linkedin.com/in/patriciavallejomedina)
+* Gmail: (patruqui06@gmail.com)
 
 <!--
 **Patrivj06/Patrivj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
