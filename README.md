@@ -11,7 +11,7 @@ Soy estudiante de economía interesada en el análisis de datos, la macroeconom�
 
 * Practico de vez en cuando Fron-End para mis proyectos 
 
-* **Como contactar conmigo**:
+## **Como contactar conmigo**:
 
 * Linkedin: (www.linkedin.com/in/patriciavallejomedina)
 * Gmail: (patruqui06@gmail.com)
